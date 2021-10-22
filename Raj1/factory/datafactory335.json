@@ -1,0 +1,9 @@
+{
+	"name": "datafactory335",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2cfc7292-94c4-45f1-ad33-0c97877e2b77",
+		"tenantId": "724cfb2d-83fe-4012-be2c-0003c9852cf9"
+	}
+}
